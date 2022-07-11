@@ -24,5 +24,5 @@ ProdyTalk은 화상채팅뿐만 아니라 프로젝트, 스터디를 진행하�
 ## Youtube
 https://www.youtube.com/watch?v=5a9gogHFBDw
 
-<br>
-![image](https://user-images.githubusercontent.com/89003891/178304817-1b029273-ca53-4749-b31b-8570f784b01c.png)
+![image](https://user-images.githubusercontent.com/89003891/178304860-1a360e33-e2f8-4876-8be4-b2359c49b69c.png)
+
