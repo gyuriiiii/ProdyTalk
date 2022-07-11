@@ -1,7 +1,7 @@
 # ProdyTalk
 **WebRTC 기반 화상채팅 플랫폼**
 
-![image](https://user-images.githubusercontent.com/89003891/178299485-12a56b00-04f0-4907-ad88-df9be0cfb9c9.png)
+![image](https://user-images.githubusercontent.com/89003891/178299812-ef86139b-22cf-4a9d-bda7-8e28450ec851.png)
 
 ProdyTalk은 WebRTC 기반의 화상채팅을 활용한 프로젝트/스터디 플랫폼이다. <br>
 ProdyTalk은 화상채팅뿐만 아니라 프로젝트, 스터디를 진행하며 팀원들과 진행 상황과 일정들을 공유할 수 있고
