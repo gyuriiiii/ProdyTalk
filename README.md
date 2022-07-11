@@ -1,15 +1,11 @@
 # ProdyTalk
 **WebRTC 기반 화상채팅 플랫폼**
 
-**TwoMandarin**
-김규리(팀장) : REST API 설계 및 구현, UI/UX
-민경은 : REST API 설계 및 구현
-조민화 : 서버 구축, UI/UX
-최규리 : 서버 구축, OpenVidu
-
-# With QU:IZ
-**💻 iOS Project**
-
+## TwoMandarin
+김규리(팀장) : REST API 설계 및 구현, UI/UX <br>
+민경은 : REST API 설계 및 구현 <br>
+조민화 : 서버 구축, UI/UX <br>
+최규리 : 서버 구축, OpenVidu <br>
 
 With QU:IZ는 퀴즈를 통해 다양한 상식들을 넓히고 재미있게 즐길 수 있는 앱으로, 누구나 쉽게 활용 가능하다.
 바쁜 일상생활 속에서 한 번의 터치로 누구나 쉽게 빠르게 똑똑해질 수 있다.
