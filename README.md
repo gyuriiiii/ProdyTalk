@@ -30,4 +30,4 @@ ProdyTalk은 화상채팅뿐만 아니라 프로젝트, 스터디를 진행하�
 ##
 🎮 상식 퀴즈 & 영단어 외우기
 
-![TwoMandarin팀 판넬](https://user-images.githubusercontent.com/89003891/178303114-dd2a81a3-4398-4088-a942-f3de2a906f4c.jpg)
+![image](https://user-images.githubusercontent.com/89003891/178303548-f1b16faf-3c72-4473-90ff-bfc36cb506ae.png)
