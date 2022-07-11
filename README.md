@@ -25,4 +25,4 @@ ProdyTalk은 화상채팅뿐만 아니라 프로젝트, 스터디를 진행하�
 https://www.youtube.com/watch?v=5a9gogHFBDw
 
 <br>
-![image](https://user-images.githubusercontent.com/89003891/178303548-f1b16faf-3c72-4473-90ff-bfc36cb506ae.png)
+![TwoMandarin팀 판넬](https://user-images.githubusercontent.com/89003891/178304705-b692773a-2cb7-4617-9887-88f1eed8896c.jpg)
