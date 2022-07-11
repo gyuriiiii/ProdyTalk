@@ -21,13 +21,7 @@ ProdyTalk은 화상채팅뿐만 아니라 프로젝트, 스터디를 진행하�
 - 적용 기술 : React, Spring Boot, WebRTC, OpenVidu, Kurento, WebSocket
 - 서버 : AWS
 
-## 실행 화면
-✔️ With QU:IZ 앱 시작 화면 하단에 있는 PLAY 버튼을 클릭 시 일반 상식 퀴즈와 영단어 외우기 중 자신이 하고싶은 것을 선택할 수 있다.
-
-![image](https://user-images.githubusercontent.com/89003891/178270478-63ca46b6-28a7-4af1-88d8-414b56472ecd.png)
-![image](https://user-images.githubusercontent.com/89003891/178270491-69036411-4990-4204-9aec-4760b4f307ba.png)
-
-##
-🎮 상식 퀴즈 & 영단어 외우기
+## YOUTUBE
+https://www.youtube.com/watch?v=5a9gogHFBDw
 
 ![image](https://user-images.githubusercontent.com/89003891/178303548-f1b16faf-3c72-4473-90ff-bfc36cb506ae.png)
