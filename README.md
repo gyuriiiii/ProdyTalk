@@ -1,8 +1,8 @@
 # ProdyTalk
 **WebRTC 기반 화상채팅 플랫폼**<br>
- 🏆 2022 컴퓨터공학부 캡스톤 디자인 우수상
- 🏆 제 18회 한성공학경진대회 은상
- 🏆 C&C Festival(창의융합성과 경진대회) 은상
+ 🏆 2022 컴퓨터공학부 캡스톤 디자인 우수상 <br>
+ 🏆 제 18회 한성공학경진대회 은상 <br>
+ 🏆 C&C Festival(창의융합성과 경진대회) 은상 <br>
 <br>
 
 ![image](https://user-images.githubusercontent.com/89003891/178299812-ef86139b-22cf-4a9d-bda7-8e28450ec851.png)
